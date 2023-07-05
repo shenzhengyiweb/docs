@@ -1,0 +1,11 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/shenzhengyiweb/docs.git",
+  "author": "webszy@163.com <webszy@163.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.9"
+  }
+}
