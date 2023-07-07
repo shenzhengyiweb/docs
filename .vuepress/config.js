@@ -2,6 +2,8 @@ const moment = require('moment');
 moment.locale("zh-cn")
 module.exports = {
   title: "Vuepress",
+  description:"小喳喳的生活日记",
+  base:"/docs/",
   themeConfig: {
     logo: "/assets/img/hero.png",
     lastUpdated: '更新时间', // string | boolean
